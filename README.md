@@ -36,7 +36,7 @@ The Tic Tac Toe Game project brings the classic game to your console. Enjoy the 
 ## Installation
 #### 1) Clone the Repository:
 
-###### git clone https://github.com/yourusername/tic-tac-toe.git
+###### git clone https://github.com/Mohamed00Elkassify/tic-tac-toe.git
 
 ###### cd tic-tac-toe
 
