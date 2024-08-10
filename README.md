@@ -40,7 +40,8 @@ The Tic Tac Toe Game project brings the classic game to your console. Enjoy the 
 
 ###### cd tic-tac-toe
 
-#### 2)There are no external dependencies for this project. Ensure you have Python installed on your system.
+#### 2) There are no external dependencies for this project. Ensure you have Python installed on your system.
+
 
 ## Usage
 #### ● Run the Game
@@ -59,11 +60,14 @@ The game will prompt you to enter player names and choose markers. You can opt t
 
 ● If all spaces on the board are filled without a winner, the game ends in a draw.
 
+
 ## Dependencies
 Python 3.x
 
+
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
+
 
 ##License
 This project is licensed under the MIT License. See the LICENSE file for more details.
