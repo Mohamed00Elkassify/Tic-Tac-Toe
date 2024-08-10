@@ -69,7 +69,7 @@ Python 3.x
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
